@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Blog preview card coding challenge](./assets/images/screenshot.png)
+![Design preview for the Blog preview card coding challenge](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-jkFb4Simv-)
 - Live Site URL: [Github Pages](https://pravinkori.github.io/fem-bog-preview-card/)
 
 ## My process
