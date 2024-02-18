@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-jkFb4Simv-)
-- Live Site URL: [Github Pages](https://pravinkori.github.io/fem-bog-preview-card/)
+- Live Site URL: [Github Pages](https://pravinkori.github.io/fem-blog-preview-card/)
 
 ## My process
 
